@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on </title>
+    <link>http://localhost:1313/testimonial/</link>
+    <description>Recent content in Testimonials on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Nov 2024 21:53:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/testimonial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graziella Nutella</title>
+      <link>http://localhost:1313/testimonial/graziella-nutella/</link>
+      <pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/graziella-nutella/</guid>
+      <description>&lt;p&gt;Blog của mình thực sự là một nguồn cảm hứng lớn cho mình khi bắt đầu học lập trình. Mình đã làm theo series &amp;lsquo;Tự học Python trong 30 ngày&amp;rsquo; và từ đó tự tin viết được những ứng dụng nhỏ. Bài viết không chỉ dễ hiểu mà còn kèm nhiều ví dụ thực tế. Nhờ blog, mình đã vượt qua vòng tuyển dụng thực tập lập trình tại một công ty lớn&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dana Oneal</title>
+      <link>http://localhost:1313/testimonial/dana-oneal/</link>
+      <pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/dana-oneal/</guid>
+      <description>&lt;p&gt;Blog của bạn giúp mình thay đổi cách nhìn về networking. Mình đã áp dụng những mẹo bạn chia sẻ trong bài viết &amp;lsquo;5 bước để networking hiệu quả&amp;rsquo; khi tham gia hội thảo nghề nghiệp. Nhờ đó, mình có cơ hội trò chuyện với một mentor rất giỏi và được mời làm thực tập sinh tại công ty của họ. Blog này thật sự hữu ích với sinh viên như mình&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ferdinand Shermand</title>
+      <link>http://localhost:1313/testimonial/ferdinand-shermand/</link>
+      <pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/ferdinand-shermand/</guid>
+      <description>&lt;p&gt;Mình luôn muốn thử làm vlog nhưng không biết bắt đầu từ đâu, cho đến khi đọc blog của bạn. Các bài viết về cách quay và chỉnh sửa video trên điện thoại thật sự hữu ích. Nhờ làm theo hướng dẫn, mình đã tự tin đăng video đầu tiên và nhận được rất nhiều phản hồi tích cực. Blog của bạn đúng là nguồn tài liệu quý giá&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

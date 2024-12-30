@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Công nghệ và kỹ thuật số</title>
+      <link>http://localhost:1313/projects/robo-advisor/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/robo-advisor/</guid>
+      <description>&lt;p&gt;Hành trình tạo blog cá nhân: Hướng dẫn sinh viên khác cách xây dựng blog từ con số 0.&#xA;Case study: Học lập trình từ đầu trong 6 tháng: Kể câu chuyện về người học lập trình từ con số 0, các bước thực hiện, và kết quả đạt được.&#xA;Trải nghiệm làm freelancer: Chia sẻ quá trình tìm kiếm khách hàng, xây dựng thương hiệu cá nhân.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lĩnh vực giáo dục và học tập</title>
+      <link>http://localhost:1313/projects/radity-finance-uikit/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/radity-finance-uikit/</guid>
+      <description>&lt;p&gt;Kinh nghiệm học tập hiệu quả: Chia sẻ cách quản lý thời gian, lập kế hoạch học tập, sử dụng công cụ hỗ trợ học tập (Notion, Trello, ChatGPT,&amp;hellip;).&#xA;Phương pháp tự học: Kinh nghiệm học ngoại ngữ, lập trình, hay học kỹ năng mềm qua các khóa học online như Coursera, Udemy.&#xA;Case study: Làm thế nào để đạt được điểm cao trong kỳ thi quan trọng? Mô tả cách một sinh viên đã cải thiện điểm số bằng việc thay đổi chiến lược học tập.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Văn hóa và xã hội</title>
+      <link>http://localhost:1313/projects/swiss-fintech/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/swiss-fintech/</guid>
+      <description>&lt;p&gt;Trải nghiệm du học: Viết về các bài học văn hóa, cách thích nghi với môi trường mới.&#xA;Case study: Tổ chức một sự kiện sinh viên thành công: Chia sẻ kinh nghiệm từ việc lập kế hoạch đến triển khai.&#xA;Tình nguyện và hoạt động xã hội: Câu chuyện về việc tham gia các hoạt động tình nguyện và giá trị nhận được.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

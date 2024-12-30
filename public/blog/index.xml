@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on </title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jun 2024 14:38:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Giới Thiệu về Java: Lý Do Bạn Nên Học Java</title>
+      <link>http://localhost:1313/blog/sample-3/</link>
+      <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-3/</guid>
+      <description>&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến và mạnh mẽ nhất trên thế giới. Với khả năng chạy trên nhiều nền tảng (cross-platform), Java cho phép bạn viết một lần và chạy mọi nơi. Trong bài viết này, chúng ta sẽ khám phá lý do tại sao Java vẫn được ưa chuộng:&lt;/p&gt;&#xA;&lt;p&gt;Tính Nền Tảng Độc Lập: Java sử dụng Java Virtual Machine (JVM), cho phép ứng dụng chạy trên bất kỳ hệ điều hành nào mà không cần thay đổi mã nguồn.&#xA;Được Sử Dụng Rộng Rãi: Java là lựa chọn chính trong các ứng dụng doanh nghiệp (ví dụ như các hệ thống ERP, CRM), ứng dụng di động (Android), hệ thống nhúng, và thậm chí các dự án AI.&#xA;Thư Viện và Công Cụ Phát Triển Phong Phú: Java có hàng nghìn thư viện và công cụ hỗ trợ phát triển như Spring, Hibernate, và Maven, giúp giảm thiểu công sức lập trình.&#xA;Cộng Đồng và Tài Liệu Phong Phú: Với cộng đồng người dùng và tài liệu dồi dào, bạn sẽ không bao giờ cảm thấy cô đơn khi gặp vấn đề.&#xA;Bài viết này sẽ cung cấp cái nhìn tổng quan về Java, giúp bạn hiểu lý do tại sao bạn nên bắt đầu học Java ngay bây giờ.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2. Sử Dụng Các Thư Viện Java Phổ Biến</title>
+      <link>http://localhost:1313/blog/sample-9/</link>
+      <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-9/</guid>
+      <description>&lt;p&gt;Java có một hệ sinh thái thư viện phong phú giúp lập trình viên tiết kiệm thời gian. Một số thư viện phổ biến là:&lt;/p&gt;&#xA;&lt;p&gt;Apache Commons: Cung cấp các công cụ hỗ trợ cho công việc lập trình như xử lý file, chuỗi, và ngày giờ.&#xA;Gson: Dùng để chuyển đổi giữa đối tượng Java và JSON.&#xA;Log4j: Thư viện quản lý log hiệu quả.&#xA;Bài viết sẽ hướng dẫn cách sử dụng từng thư viện này và ví dụ về cách tích hợp chúng vào dự án Java.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3. Java Streams và Lambda Expressions: Tối Ưu Hoá Lập Trình</title>
+      <link>http://localhost:1313/blog/sample-6/</link>
+      <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-6/</guid>
+      <description>&lt;p&gt;Java 8 giới thiệu hai tính năng quan trọng là Streams và Lambda Expressions. Chúng giúp làm việc với các bộ sưu tập dữ liệu dễ dàng và hiệu quả hơn.&lt;/p&gt;&#xA;&lt;p&gt;Lambda Expressions: Cung cấp cách viết mã ngắn gọn hơn cho các phương thức ẩn danh.&lt;/p&gt;&#xA;&lt;p&gt;List&lt;!-- raw HTML omitted --&gt; names = Arrays.asList(&amp;ldquo;Alice&amp;rdquo;, &amp;ldquo;Bob&amp;rdquo;, &amp;ldquo;Charlie&amp;rdquo;);&#xA;names.forEach(name -&amp;gt; System.out.println(name));&#xA;Streams: Giúp bạn thực hiện các phép toán như lọc, map, reduce trên các bộ sưu tập một cách dễ dàng.&#xA;java&#xA;Sao chép mã&#xA;List&lt;!-- raw HTML omitted --&gt; numbers = Arrays.asList(1, 2, 3, 4, 5);&#xA;numbers.stream().filter(n -&amp;gt; n &amp;gt; 3).forEach(System.out::println);  // In ra 4, 5&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4. Cấu Trúc Cơ Bản Của Một Chương Trình Java</title>
+      <link>http://localhost:1313/blog/sample-2/</link>
+      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-2/</guid>
+      <description>&lt;p&gt;Khi bắt đầu với Java, điều quan trọng là phải hiểu cấu trúc cơ bản của một chương trình. Mỗi chương trình Java bắt buộc phải có một lớp chứa phương thức main(), nơi chương trình bắt đầu thực thi. Dưới đây là một ví dụ đơn giản:&lt;/p&gt;&#xA;&lt;p&gt;public class HelloWorld {&#xA;public static void main(String[] args) {&#xA;System.out.println(&amp;ldquo;Hello, World!&amp;rdquo;);&#xA;}&#xA;}&#xA;Giải thích:&lt;/p&gt;&#xA;&lt;p&gt;public class HelloWorld: Đây là khai báo lớp, Java yêu cầu mỗi chương trình phải có ít nhất một lớp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>5. Lập Trình Hướng Đối Tượng (OOP) trong Java: Các Khái Niệm Cơ Bản</title>
+      <link>http://localhost:1313/blog/sample-5/</link>
+      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-5/</guid>
+      <description>&lt;p&gt;Lập trình hướng đối tượng (OOP) là một phương pháp phát triển phần mềm phổ biến và Java hỗ trợ OOP rất mạnh mẽ. Các khái niệm chính trong OOP bao gồm:&lt;/p&gt;&#xA;&lt;p&gt;Lớp (Class): Là bản thiết kế của đối tượng.&#xA;Đối tượng (Object): Là thực thể của lớp.&#xA;Kế thừa (Inheritance): Cho phép một lớp kế thừa thuộc tính và phương thức từ lớp khác.&#xA;Đa hình (Polymorphism): Cho phép một đối tượng có nhiều hình thức khác nhau.&#xA;Đóng gói (Encapsulation): Ẩn thông tin bên trong lớp và chỉ cung cấp các phương thức để truy cập và sửa đổi.&#xA;Trừu tượng (Abstraction): Ẩn đi các chi tiết cài đặt phức tạp, chỉ cho phép người dùng tương tác với một giao diện đơn giản.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>6. Quản Lý Ngoại Lệ (Exception Handling) trong Java</title>
+      <link>http://localhost:1313/blog/sample-8/</link>
+      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-8/</guid>
+      <description>&lt;p&gt;Trong Java, việc quản lý ngoại lệ rất quan trọng để đảm bảo chương trình không bị dừng đột ngột khi gặp lỗi. Các thành phần chính của quản lý ngoại lệ:&lt;/p&gt;&#xA;&lt;p&gt;try-catch: Chạy mã trong khối try và nếu có ngoại lệ, chuyển sang khối catch để xử lý.&#xA;throw: Dùng để ném một ngoại lệ.&#xA;throws: Dùng trong khai báo phương thức để thông báo về ngoại lệ mà phương thức có thể ném ra.&#xA;Ví dụ về sử dụng try-catch:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7. Hướng Dẫn Sử Dụng Các Mảng và Danh Sách trong Java</title>
+      <link>http://localhost:1313/blog/sample-4/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-4/</guid>
+      <description>&lt;p&gt;Trong Java, bạn có thể lưu trữ một tập hợp các giá trị cùng loại bằng cách sử dụng mảng (array) hoặc danh sách (ArrayList).&lt;/p&gt;&#xA;&lt;p&gt;Mảng: Mảng có kích thước cố định và có thể chứa các giá trị cùng kiểu dữ liệu.&lt;/p&gt;&#xA;&lt;p&gt;int[] numbers = {1, 2, 3, 4, 5};&#xA;System.out.println(numbers[0]);  // In ra 1&#xA;ArrayList: Đây là một danh sách động, có thể thay đổi kích thước khi cần thiết.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8. Biến, Kiểu Dữ Liệu và Các Cấu Trúc Điều Khiển trong Java</title>
+      <link>http://localhost:1313/blog/sample/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample/</guid>
+      <description>&lt;p&gt;Trong Java, bạn sẽ thường xuyên làm việc với các biến và kiểu dữ liệu. Các kiểu dữ liệu cơ bản trong Java bao gồm:&lt;/p&gt;&#xA;&lt;p&gt;Số nguyên: int, long&#xA;Số thực: float, double&#xA;Ký tự: char&#xA;Chuỗi: String&#xA;Boolean: boolean (true/false)&#xA;Cấu trúc điều khiển trong Java giúp điều khiển luồng chương trình. Các cấu trúc điều khiển quan trọng là:&lt;/p&gt;&#xA;&lt;p&gt;if: Kiểm tra điều kiện và thực thi mã nếu điều kiện đúng.&#xA;switch: Kiểm tra giá trị của một biến và thực thi mã tùy theo giá trị đó.&#xA;Vòng lặp: for, while, do-while giúp lặp lại các khối mã.&#xA;Ví dụ về cấu trúc điều khiển if:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>9. Tối Ưu Hiệu Suất và Quản Lý Bộ Nhớ trong Java</title>
+      <link>http://localhost:1313/blog/sample-7/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-7/</guid>
+      <description>&lt;p&gt;Quản lý hiệu suất và bộ nhớ trong Java rất quan trọng để đảm bảo ứng dụng chạy mượt mà. Một số mẹo tối ưu:&lt;/p&gt;&#xA;&lt;p&gt;Garbage Collection: Java tự động quản lý bộ nhớ thông qua Garbage Collector, giúp giải phóng bộ nhớ không còn sử dụng đến.&#xA;Giảm Thiểu Tạo Đối Tượng Thừa: Cố gắng tránh tạo quá nhiều đối tượng tạm thời không cần thiết.&#xA;Sử Dụng Cấu Trúc Dữ Liệu Phù Hợp: Lựa chọn đúng cấu trúc dữ liệu (ví dụ như sử dụng ArrayList thay vì mảng khi kích thước thay đổi).&#xA;Bài viết sẽ đi sâu vào các kỹ thuật tối ưu hóa này, kèm theo các công cụ và cách đo lường hiệu suất trong Java.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
